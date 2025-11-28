@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Python Programming",
+    "author": "John Smith",
+    "isbn": "111",
+    "available": true,
+    "borrow_count": 1
+  }
+]
